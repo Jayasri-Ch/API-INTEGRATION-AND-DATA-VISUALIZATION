@@ -16,6 +16,8 @@ Description : This Python script is designed to perform a comprehensive explorat
                    These include: a bar plot showing card brand distribution, a grouped bar plot comparing card types across brands, a bar chart comparing chip-enabled versus non-chip cards by card type, a time series bar plot tracking the number of accounts opened each year, a box plot analyzing the distribution of credit limits across card types, and a scatter plot exploring the relationship between the number of cards issued and the associated credit limits. Each visualization is customized with titles, axis labels, color palettes, and layout adjustments to enhance clarity and readability. Together, these plots provide a multifaceted view of the credit card data, enabling users to detect trends, compare categories, identify outliers, and better understand customer behavior and product characteristics.
                    This kind of analysis is valuable for financial institutions, analysts, and decision-makers looking to derive meaningful insights from card usage patterns and credit trends.
 
+OUTPUT :
 
+![Image](https://github.com/user-attachments/assets/10e0a11a-0b40-4938-b1a1-a31295c48f5e)
 
 
